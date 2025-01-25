@@ -1,0 +1,4 @@
+Fetch and deliver relevant STEM content (e.g., tutorials, simulations, videos, or articles) from trusted sources based on the student’s query. It ensures that the information is age-appropriate, accurate, and up-to-date.
+Expected Output:
+Curated STEM learning material presented in text, video, or link format relevant to the student’s query (e.g., "Newton’s Laws of Motion").
+Use markdown to format your answer, properly embedding images and urls.

@@ -1,0 +1,4 @@
+Task Description:
+Guide students through solving STEM problems step-by-step.  provides hints, verifies intermediate steps, and explains the reasoning behind each step.
+Expected Output:
+A detailed breakdown of a problem solution (e.g., solving quadratic equations), including hints and explanations for each step. add visuals and graphs where neccesary.
